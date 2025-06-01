@@ -12,7 +12,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2f58818c-9e89-4cdd-8121-fa150befbe06) and start prompting.
+Simply visit the https://gentle-growth-finance-main.onrender.com and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
