@@ -4,17 +4,8 @@ BudgetBloom is a modern personal finance tracker application built with React, T
 
 ## Project info
 
-**Original URL**: https://lovable.dev/projects/2f58818c-9e89-4cdd-8121-fa150befbe06
+**Original URL**: https://gentle-growth-finance-main.onrender.com
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the https://gentle-growth-finance-main.onrender.com and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
